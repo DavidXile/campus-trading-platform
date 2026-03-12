@@ -386,6 +386,8 @@ npm install
 
 **LuQi** (项目贡献者)
 
+- GitHub: [@ErenJeagerrr](https://github.com/ErenJeagerrr)
+- Email: lu1029072390@163.com
 - 主要贡献：运用 React 生态与前端工具参与移动端界面与实时聊天开发；负责全链路功能测试与质量保障，参与需求分析与文档维护。
 
 ---
@@ -403,8 +405,9 @@ npm install
 
 如果这个项目对您有帮助，请给个 ⭐ Star！
 
-Made with ❤️ by [Wang Zhaohan](https://github.com/DavidXile) & LuQi
+Made with ❤️ by [Wang Zhaohan](https://github.com/DavidXile) & [LuQi](https://github.com/ErenJeagerrr)
 
 *This project is a collaborative effort, with Wang Zhaohan as the primary developer and LuQi as a key contributor.*
 
 </div>
+
