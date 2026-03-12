@@ -1,0 +1,89 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background-color: var(--xy-yellow);
+  color: var(--xy-black);
+  padding: 0.8rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: none; /* 闲鱼风格通常比较扁平，去掉明显的阴影，或者用更淡的 */
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 1.2rem; /* 稍微调小一点，更精致 */
+  font-weight: 800;  /* 加粗 */
+  color: var(--xy-black);
+  letter-spacing: -0.5px;
+}
+
+.app-header nav {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.app-header nav a {
+  color: var(--xy-black);
+  text-decoration: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px; /* 胶囊形状 */
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.app-header nav a:hover, .app-header nav a.active {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.app-main {
+  flex: 1;
+  width: 100%;
+  background-color: var(--xy-bg);
+}
+
+.app-footer {
+  background-color: #f5f5f5;
+  text-align: center;
+  padding: 1rem;
+  border-top: 1px solid #e8e8e8;
+}
+
+.app-footer p {
+  margin: 0;
+  color: #666;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .app-header {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .app-header nav {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .app-main {
+    padding: 1rem;
+  }
+}
+
+
+
+
+
+
+
+
