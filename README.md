@@ -375,7 +375,7 @@ npm install
 
 ## 👤 作者
 
-本项目由 **Wang Zhaohan** 和 **LuQi** 共同开发完成。
+本项目由 **Wang Zhaohan** 开发完成。
 
 **Wang Zhaohan** (主要开发者)
 
@@ -388,7 +388,6 @@ npm install
 
 - GitHub: [@ErenJeagerrr](https://github.com/ErenJeagerrr)
 - Email: lu1029072390@163.com
-- 主要贡献：运用 React 生态与前端工具参与移动端界面与实时聊天开发；负责全链路功能测试与质量保障，参与需求分析与文档维护。
 
 ---
 
