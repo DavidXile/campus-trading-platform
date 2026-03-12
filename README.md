@@ -382,7 +382,7 @@ npm install
 - GitHub: [@DavidXile](https://github.com/DavidXile)
 - Email: xile5201314@gmail.com
 - 项目地址: [campus-trading-platform](https://github.com/DavidXile/campus-trading-platform)
-- 主要贡献：后端架构设计、API开发、数据库设计、实时通信系统、支付系统、管理后台、项目部署与维护
+- 主要贡献：前端UI设计、后端架构设计、API开发、数据库设计、实时通信系统、支付系统、管理后台、项目部署与维护
 
 **LuQi** (项目贡献者)
 
